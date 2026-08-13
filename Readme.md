@@ -19,3 +19,10 @@ The overall architecture of Dashnosis is illustrated below.
 </p>
 
 ---
+
+## Dataset
+
+The datasets used in this work are publicly available:
+
+- **BJTU-RAO Bogie Dataset**: https://drive.google.com/drive/folders/1RlZvFw-v07VvsL2Ni9cS7iFrTPDIhn2r?usp=sharing
+- **HUSTbearing Dataset**: https://drive.google.com/drive/folders/1UMOvyfstYJRyR0rPw0OfH-tIjJg2_0aN?usp=sharing
